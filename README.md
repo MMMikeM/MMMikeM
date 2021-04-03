@@ -1,7 +1,7 @@
 ### Hi there, I'm Mike and welcome to my page 👋
 
 * 🔭 I’m currently working on my life system webapp. 
-* Implementing principles from James Clear's Atomic Habits with a goal tracking and note taking system
+    * Implementing principles from James Clear's Atomic Habits with a goal tracking and note taking system
 * 🌱 I’m currently learning backend technologies - specifically typeORM (or MikroOrm) and GraphQL
 * 🕑 I next want to learn TDD and Next.js
 * 💬 Ask me about keyboards and why they don't make sense
