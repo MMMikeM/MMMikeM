@@ -20,7 +20,7 @@ Staff engineer in payments by day: TypeScript and Python on Lambdas; Postgres, M
 * Keyboards still don't make sense. Findings so far:
 * Colemak-DH over Workman over Dvorak ⌨️
 * Columnar stagger and 40% keyboards are cool until you try to play games on one.
-* True endgame is split, low profile, no row stagger. I wrote that years before owning exactly that, and I'm building another anyway. Endgame is a lie.
+* ~~True endgame is split, low profile, no row stagger.~~ Endgame is a lie.
 * Definitely a dog person 🐕
 * I'm not a fussy eater, I'm a [supertaster](https://en.wikipedia.org/wiki/Supertaster) 😎
 
