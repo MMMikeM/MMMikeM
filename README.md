@@ -7,7 +7,8 @@ Staff engineer in payments by day: TypeScript and Python on Lambdas, Postgres, M
   * an offline-first new tab extension for task tracking
   * [Kalimera](https://github.com/MMMikeM/Kalimera), a Greek learning app
   * Wireless split keyboard - hybrid tenting
-  * ~A CNC~ Built a CNC, specifically for guitars
+  * ~~A CNC~~
+  * Guitars with my CNC
 * 🏠 Self-hosting: Proxmox, Home Assistant, and webapps with a lot of help from Tailscale
 * 💬 Ask me about keyboards and why they *still* don't make sense
 * 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/dev-mike/)
